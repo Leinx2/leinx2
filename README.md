@@ -3,9 +3,6 @@
 </p>
 
 ```bash
-leinx2@github:~$ whoami
-leinx2 — student developer, backend & automation
-
 leinx2@github:~$ cat stack.txt
 [ OK ] Java + Spring Boot
 [ OK ] Clean / Onion Architecture
